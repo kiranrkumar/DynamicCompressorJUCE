@@ -1,7 +1,7 @@
 # DynamicCompressorJUCE
 Dynamic compressor plugin using JUCE
 
-A basic audio compression plugin for compatible DAWs. Available in VST, VST, AU, and AU3 formats. Parameters include:
+A basic audio compression plugin for compatible DAWs. Available in VST, VST3, AU, and AU3 formats. Parameters include:
 
 - Input Gain (db)
 - Compression Ratio
